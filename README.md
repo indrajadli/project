@@ -157,6 +157,8 @@ The frontend API base URL defaults to `http://localhost:8080/api`; set `VITE_API
 
 See [docs/api.md](docs/api.md) for route authorization, request parameters, response examples, matching behavior, privacy notes, and errors.
 
+See [backend.md](backend.md) for the comprehensive Spring Boot backend API reference, authentication, workflows, maps, WebSocket chat, Groq assistant configuration, and troubleshooting.
+
 ## Quality checks
 
 Run frontend checks from `frontend`:
